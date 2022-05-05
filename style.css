@@ -1,0 +1,22 @@
+
+html,body {
+    background-color: black;
+}
+
+#container {
+    padding: 60px;
+    padding-top: 30px;
+    margin: 45px;
+    margin-top: 10;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+#container2 {
+    padding: 50px;
+    padding-top: 20px;
+    padding-bottom: 90px;
+    margin: 45px;
+    margin-top: 0;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
